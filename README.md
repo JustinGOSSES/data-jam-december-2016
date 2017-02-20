@@ -1,5 +1,6 @@
 # data-jam-december-2016
 
+This repo was part of a 3 hour data jam. After playing around with a leaflet.js map, I decided the quickest way forward would be to through the data into Tableau Public. The <a href="https://public.tableau.com/profile/justin.gosses#!/vizhome/HoustonNorthsideNeighborhoodCrimeExploration2016_versionB/NorthsideHoustonCrime">visualizations</a> which resulted are plentiful but not always useful. Tableau is a great way to get data into data visualization format very quickly, which has value as a first-look, even if first look is messy. 
 
 Crime data from the Northside neighborhood in Houston. 
 
